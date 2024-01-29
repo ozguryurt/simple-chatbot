@@ -6,8 +6,8 @@ import random
 
 class ChatBot:
     dataFile = None
-    dataFilePath = None
-    cutoffValue = 0.7
+    dataFilePath = "chatbot_data.json"
+    cutoffValue = 0.6
 
     def __init__(self, dataFilePath, cutoffValue):
         self.dataFilePath = dataFilePath
