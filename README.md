@@ -1,5 +1,5 @@
 # simple-chatbot
-Simple ChatBot made with Python
+A chat bot made in Python that uses your own data.
 
 # Libraries used
 difflib, json, random
