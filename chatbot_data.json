@@ -1,0 +1,22 @@
+[
+  {
+    "questions": ["How's it going?", "What's your favorite season?", "Do you like coffee?"],
+    "answers": ["It's going well, thanks!", "I love the fall season.", "Yes, I'm a coffee enthusiast."]
+  },
+  {
+    "questions": ["Have you traveled recently?", "What's your go-to weekend activity?", "Any favorite music genre?"],
+    "answers": ["I visited a new city last month.", "I enjoy hiking on weekends.", "I'm into rock music."]
+  },
+  {
+    "questions": ["Do you have any pets?", "What's your dream vacation destination?", "Favorite outdoor activity?"],
+    "answers": ["Yes, I have a dog.", "I dream of visiting Japan.", "I love going for a run in the park."]
+  },
+  {
+    "questions": ["Any recent book recommendations?", "Do you prefer cooking or eating out?", "What's your morning routine?"],
+    "answers": ["I recommend 'The Silent Patient.'", "I enjoy cooking at home.", "I start my day with a workout."]
+  },
+  {
+    "questions": ["How do you handle stress?", "Favorite movie of all time?", "Any hidden talents?"],
+    "answers": ["I practice mindfulness for stress.", "Shawshank Redemption is my favorite.", "I can play the guitar."]
+  }
+]
